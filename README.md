@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ChathumalJayasingha
-- 👀 I’m interested in learing new technology
-- 🌱 I’m currently learning Hibernate,Spring,React Native and Angular
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👀 I’m interested in learning new technologies.
+- 🌱 I’m currently learning Hibernate, Spring, React Native, and Angular.
+- 💞️ I'm looking to collaborate with you.
+- 📫 How to reach me - ChathumalJayasingha@hotmail.com
 
 <!---
 ChathumalJayasingha/ChathumalJayasingha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
