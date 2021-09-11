@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Hibernate, Spring, React Native, and Angular.
 - 💞️ I'm looking to collaborate with you.
 - 📫 How to reach me - ChathumalJayasingha@hotmail.com
--                    - https://www.linkedin.com/in/Chathumal
+-                     https://www.linkedin.com/in/Chathumal
 
 <!---
 ChathumalJayasingha/ChathumalJayasingha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
