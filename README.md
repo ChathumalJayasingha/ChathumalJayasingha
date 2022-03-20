@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChathumalJayasingha
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning Hibernate, Spring, React Native, and Angular.
+- 🌱 I’m currently learning Hibernate,Spring-boot,and Angular.
 - 💞️ I'm looking to collaborate with you.
 - 📫 How to reach me - ChathumalJayasingha@hotmail.com
 -                     https://www.linkedin.com/in/Chathumal
